@@ -13,5 +13,13 @@ To address these challenges, we propose a solution that leverages voice data col
 
 We chose meetings as our data source because virtual meetings are becoming more common and possess the ability to integrate with AI. Additionally, online meetings make up a substantial and growing portion of employees’ medium of conversations and interactions, thus presenting a high potential for valuable insights and scalability.
 
+## How to Run the Project
+
+- Create a config file with appropriate keys
+- Navigate to the project directory and perform `reflex init` and `reflex apply` (ensure you have reflex packages installed using pip)
+
 ## Video Demonstration
 - Video (Live Demonstration) - https://drive.google.com/file/d/1P8un6zteKKQipDogertZOr7yzbKYtAg5/view?usp=sharing
+
+## Technologies Used
+- https://github.com/reflex-dev/reflex
